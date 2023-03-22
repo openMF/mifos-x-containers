@@ -15,6 +15,7 @@ For running Mifos X using MariaDb as Database
 
 ```bash
 cd mariadb
+docker compose pull
 docker compose up -d
 ```
 Wait some time, because the data is being created. Then go to your web browser and open the following URL to allow the self signed certificate.
@@ -31,6 +32,7 @@ For running Mifos X using MySQL as Database
 
 ```bash
 cd mysql
+docker compose pull
 docker compose up -d
 ```
 Wait some time, because the data is being created. Then go to your web browser and open the following URL to allow the self signed certificate.
@@ -47,6 +49,7 @@ For running Mifos X using Postgres as Database
 
 ```bash
 cd postgresql
+docker compose pull
 docker compose up -d
 ```
 Wait some time, because the data is being created. Then go to your web browser and open the following URL to allow the self signed certificate.
