@@ -1,6 +1,13 @@
 # Mifos X - Containers
 
-Quick Deployment tool for having a running, non persistent Mifos X environment for demonstration purpose. These are samples for quick demo setup, they don't have persistence storage. And they use the lastest version of Apache Fineract and Mifos Web App.
+Quick Deployment tool for having a running, non persistent Mifos X environment for demonstration purpose. These are samples for quick demo setup, they don't have persistence storage. And they use the lastest version of Apache Fineract and Mifos Web App. 
+
+This have been tested using:
+
+Linux Ubuntu 22.04 LTS
+Docker 23.0.1 
+
+Make sure that the ports 8443 and 4200 are free before running the docker compose.
 
 ***********************************************************************************************
 For running Mifos X using MariaDb as Database
