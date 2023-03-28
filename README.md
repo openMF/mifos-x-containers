@@ -24,7 +24,7 @@ https://localhost:8443
 
 Then open the Mifos Web App using mifos as user and password as password
 
-https://localhost:4200
+http://localhost:4200
 
 ***********************************************************************************************
 For running Mifos X using MySQL as Database
@@ -41,7 +41,7 @@ https://localhost:8443
 
 Then open the Mifos Web App using mifos as user and password as password
 
-https://localhost:4200
+http://localhost:4200
 
 ***********************************************************************************************
 For running Mifos X using Postgres as Database
@@ -58,5 +58,5 @@ https://localhost:8443
 
 Then open the Mifos Web App using mifos as user and password as password
 
-https://localhost:4200
+http://localhost:4200
 
