@@ -21,7 +21,7 @@ version: '3.7'
 services:
   # Backend service
   fineractmysql:
-    image: mysql:8.0.32
+    image: mysql:8.3.0
     volumes:
       - ./fineract-db/server_collation.cnf:/etc/mysql/conf.d/server_collation.cnf
       - ./fineract-db/docker:/docker-entrypoint-initdb.d:Z,ro
