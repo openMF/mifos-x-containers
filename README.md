@@ -1,3 +1,7 @@
+#ARCHIVED
+
+Go to https://github.com/openMF/mifosx-docker for the updated version
+
 # Mifos X - Containers
 
 Quick Deployment tool for having a running, non persistent Mifos X environment for demonstration purpose. These are samples for quick demo setup, they don't have persistence storage. And they use the lastest version of Apache Fineract and Mifos Web App. 
